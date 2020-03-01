@@ -1,5 +1,115 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" AE " tvg-logo="" group-title="cabo: Documentario"
+#EXTINF: AE
 http://us12.server.kkgolf.xyz/HD_AE/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
-#EXTINF:-1 tvg-id="" tvg-name=" AMC " tvg-logo="" group-title="cabo: Documentario"
+#EXTINF: AMC
 http://pl.server.kecho.xyz/HD_AMC/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: ANIMAL PLANET
+http://fr.kpapa.live/HD_ANIMAL_PLANET/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: AXN
+http://us12.server.kecho.store/HD_AXN/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: BIS
+http://ge.server.kwhiskey.live/HD_BIS/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: BOOMERANG
+http://us12.server.kkalfa.xyz/HD_BOOMERANG/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: CARTOON
+http://pl.server.kcharlie.xyz/HD_CARTOON_NETWORK/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: CINEMAX
+http://us14.server.kp2india.xyz/HD_CINEMAX/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: DISCOVERY
+http://us12.server.kkuniform.xyz/HD_DISCOVERY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: CIVILIZATION
+http://pl.server.kkfoxtrot.xyz/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HOMEHEALTH
+http://us13.server.kudaalpha.com/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: THEATER
+http://ge.server.kuniform.live/HD_DISCOVERY_THEATER/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: DISNEY
+http://us13.server.kpjuliett.xyz/HD_DISNEY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: DISCOVERY WORLD
+http://pl.server.kecho.xyz/HD_DISCOVERY_WORLD/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: DISNEY JR
+http://us13.server.kudaalpha.com/HD_DISNEY_JUNIOR/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: DISNEY XD
+http://us12.server.kkdelta.xyz/HD_DISNEY_XD/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: ESPN2
+http://pl.server.kkecho.xyz/HD_ESPN_2/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: ESPN
+http://us12.server.kppapa.xyz/HD_ESPN/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: FOX
+http://us11.koscar.live/FHD_FOX/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: FOX LIFE
+http://us.server.kfoxtrot.live/HD_FOX_LIFE/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: GLOOB
+http://us12.server.kkgolf.xyz/HD_GLOOB/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: GNT
+http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HBO2
+http://us13.server.khotel.store/HD_HBO_2/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HBO FAMILY
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HBO 1
+http://us13.server.khotel.store/HD_HBO_1/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HBOPLUS
+http://us13.server.kplima.xyz/HD_HBO_PLUS/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HBOPLUS
+http://us14.server.kpalfa.xyz/HD_HBO_PLUS_E/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:HBO SIGNATURE
+http://ge.server.kwhiskey.live/HD_HBO_SIGNATURE/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: H2
+http://us14.server.kp2kilo.xyz/HD_H2/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: HISTORY
+http://us12.server.kecho.store/HD_HISTORY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: ISAT
+http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: MAX
+http://us11.kromeo.live/HD_MAX/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: MAXPRIME
+http://lb.kstream.org/aovivo/HD_MAXPRIME/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: MAXPRIME+
+http://us11.kgolf.store/HD_MAX_PRIME_E/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:MAXUP
+http://ge2.server.kzulu.live/HD_MAX_UP/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: MEGAPIX
+http://us13.server.kplima.xyz/HD_MEGAPIX/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:NATGEOSKIDS
+http://us12.server.kpmike.xyz/HD_NATGEOKIDS/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: NATGEO
+http://us12.server.kkdelta.xyz/HD_NAT_GEO_WILD/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: NICKJR
+http://us13.kudagama.com/HD_NICK_JR/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: OFF
+http://ge2.server.kudaalpha.live/HD_OFF/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: PARAMOUNT
+http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: SONY
+http://ge.server.kx-ray.live/HD_SONY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: SPACE
+http://us11.koscar.live/HD_SPACE/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: UNIVERSAL
+http://ge.server.kwhiskey.live/HD_STUDIO_UNIVERSAL/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: SYFY
+http://us14.server.kp2hotel.xyz/HD_SYFY/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TBS
+http://ge2.server.kzulu.live/HD_TBS/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: ACTION
+http://pl.server.kdelta.xyz/HD_TC_ACTION/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: CULT
+http://us12.server.kktango.xyz/HD_TC_CULT/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TCFUN
+http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: TCPIPOCA
+http://us13.server.kplima.xyz/HD_TC_PIPOCA/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TOUCH
+http://us12.server.kpmike.xyz/HD_TC_TOUCH/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TLC
+http://us.server.kjuliett.live/HD_TLC/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TNT
+http://us12.server.kpmike.xyz/HD_TNT/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:TNT SERIES
+http://us.khotel.live/HD_TNT_SERIES/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:UNIVERSAL2
+http://ge.server.kuniform.live/HD_UNIVERSAL/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF: WARNER
+http://us12.server.kkbravo.xyz/HD_WARNER/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+
+
