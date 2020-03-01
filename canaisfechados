@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" AE " tvg-logo="" group-title="cabo: Documentario"
+http://us12.server.kkgolf.xyz/HD_AE/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
+#EXTINF:-1 tvg-id="" tvg-name=" AMC " tvg-logo="" group-title="cabo: Documentario"
+http://pl.server.kecho.xyz/HD_AMC/video.m3u8?token=a3e5f77f9d063e240c1373697ec5e3c5
