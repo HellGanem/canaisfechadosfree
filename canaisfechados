@@ -1,6 +1,3 @@
 #EXTM3U
-EXTINF:-1 tvg-logo="https://i.imgur.com/ziWExbk.jpg" group-title="AÇÃO", HOMEM ARANHA LONGE DE CASA
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/BUSCAEXPLOSIVA2DUB-ALTO.mp4?token=ymsZLPwN39ngTznRCvP6QQ&expires=1583225063&ip=2804:14c:9d83:8971:c518:a9c5:7ecd:a035
-
-EXTINF:-1 tvg-logo="LINK DA CAPA DO FILME" group-title="CATEGORIA DO FILME EX: AÇÃO", TITULO DO FILME
-LINK DO FILME
+#EXTINF: -1 tvg-logo="https://www.mmfilmes.tv/wp-content/uploads/2020/02/cores-da-justica-300x450-200x300.jpg" group-title="AÇÃO", CORES DA JUSTIÇA
+https://wozws09969qthkl.belugacdn.link/movies/coresdajustica-dub-720p.mp4
